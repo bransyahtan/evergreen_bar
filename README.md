@@ -43,12 +43,16 @@ evergreen_bar/
 ## Screenshots
 
 Showcase of the Evergreen Bar UI:
+
 **Home Section**
 ![Homepage](public/images/screenshot/home.png)
+
 **Popular Menu Section**
 ![Popular Menu Section](public/images/screenshot/popularmenu.png)
+
 **Menu Section**
 ![Menu Section](public/images/screenshot/menu.png)
+
 **Contact Section**
 ![Contact Section](public/images/screenshot/contact.png)
 
