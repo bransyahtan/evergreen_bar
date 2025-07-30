@@ -1,7 +1,7 @@
 import gsap from "gsap";
 import { ScrollTrigger, SplitText } from "gsap/all";
 import React from "react";
-import { Hero, Menu, Navbar } from "./components";
+import { About, Art, Hero, Navbar, Popular } from "./components";
 
 gsap.registerPlugin(ScrollTrigger, SplitText);
 
@@ -10,7 +10,9 @@ const App = () => {
     <main>
       <Navbar />
       <Hero />
-      <Menu />
+      <Popular />
+      <About />
+      <Art />
     </main>
   );
 };
