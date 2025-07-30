@@ -40,6 +40,15 @@ evergreen_bar/
 └── package.json
 ```
 
+## Screenshots
+
+Showcase of the Evergreen Bar UI:
+
+![Contact Section](public/images/contact.png)
+![Homepage](public/images/home.png)
+![Menu Section](public/images/menu.png)
+![Popular Menu Section](public/images/popularmenu.png)
+
 ## Installation & Usage
 
 1. **Clone the repository**
