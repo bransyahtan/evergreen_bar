@@ -56,17 +56,17 @@ const Contact = () => {
       />
 
       <div className="content">
-        <h2>Where to Find Us</h2>
+        <h2>Step Into the Oasis</h2>
 
         <div>
-          <h3>Visit Our Bar</h3>
-          <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+          <h3>Visit Evergreen Bar</h3>
+          <p>Ashta District 8, SCBD – South Jakarta, Indonesia</p>
         </div>
 
         <div>
           <h3>Contact Us</h3>
-          <p>(555) 987-6543</p>
-          <p>hello@jsmcocktail.com</p>
+          <p>+62 21 7654 3210</p>
+          <p>hello@evergreenbar.id</p>
         </div>
 
         <div>

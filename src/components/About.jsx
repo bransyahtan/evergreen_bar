@@ -42,16 +42,16 @@ const About = () => {
           <div className="md:col-span-8">
             <p className="badge">Best Cocktails</p>
             <h2>
-              Where every detail matters <span className="text-white">-</span>
-              from muddle to garnish
+              Crafted for escape <span className="text-white">-</span>
+              from first sip to final flourish
             </h2>
           </div>
 
           <div className="sub-content">
             <p>
-              Every cocktail we serve is a reflection of our obsession with
-              detail — from the first muddle to the final garnish. That care is
-              what turns a simple drink into something truly memorable.
+              Each cocktail is a journey — blending tropical flavors, fresh
+              ingredients, and thoughtful presentation. From the first sip to
+              the last, it's a mini vacation in a glass.
             </p>
 
             <div>
