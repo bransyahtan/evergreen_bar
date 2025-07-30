@@ -44,10 +44,10 @@ evergreen_bar/
 
 Showcase of the Evergreen Bar UI:
 
-![Contact Section](public/images/contact.png)
-![Homepage](public/images/home.png)
-![Menu Section](public/images/menu.png)
-![Popular Menu Section](public/images/popularmenu.png)
+![Contact Section](public/images/screenshot/contact.png)
+![Homepage](public/images/screenshot/home.png)
+![Menu Section](public/images/screenshot/menu.png)
+![Popular Menu Section](public/images/screenshot/popularmenu.png)
 
 ## Installation & Usage
 
