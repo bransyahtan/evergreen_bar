@@ -73,7 +73,7 @@ const mockTailLists = [
     name: "Cucumber Splash",
     country: "ID",
     detail: "Cucumber, apple, lime, tonic",
-    price: "12",
+    price: "$12",
   },
   {
     name: "Tropical Zen",
