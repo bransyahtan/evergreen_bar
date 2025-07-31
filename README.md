@@ -58,9 +58,10 @@ Showcase of the Evergreen Bar UI:
 
 **Mobile View**
 
-![Home Section](public/images/screenshot/mobile_home.png)
-
-![Menu Section](public/images/screenshot/mobile_menu.png)
+<p align="center">
+  <img src="public/images/screenshot/mobile_home.png" alt="Home Section" width="200" style="margin: 10px;" />
+  <img src="public/images/screenshot/mobile_menu.png" alt="Menu Section" width="200" style="margin: 10px;" />
+</p>
 
 ## Installation & Usage
 
