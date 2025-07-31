@@ -56,6 +56,13 @@ Showcase of the Evergreen Bar UI:
 **Contact Section**
 ![Contact Section](public/images/screenshot/contact.png)
 
+**Mobile View**
+
+<p align="left">
+  <img src="public/images/screenshot/mobile_home.png" alt="Home Section" width="200" style="margin: 10px;" />
+  <img src="public/images/screenshot/mobile_menu.png" alt="Menu Section" width="200" style="margin: 10px;" />
+</p>
+
 ## Installation & Usage
 
 1. **Clone the repository**
