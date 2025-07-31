@@ -46,7 +46,7 @@ const Popular = () => {
                     {country} | {detail}
                   </p>
                 </div>
-                <span>- {price}</span>
+                <span>{price}</span>
               </li>
             ))}
           </ul>
@@ -58,13 +58,13 @@ const Popular = () => {
           <ul>
             {mockTailLists.map(({ name, country, detail, price }) => (
               <li key={name}>
-                <div className="me-28">
+                <div className="md:me-28">
                   <h3>{name}</h3>
                   <p>
                     {country} | {detail}
                   </p>
                 </div>
-                <span>- {price}</span>
+                <span>{price}</span>
               </li>
             ))}
           </ul>
