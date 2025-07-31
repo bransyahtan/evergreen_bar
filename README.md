@@ -56,6 +56,10 @@ Showcase of the Evergreen Bar UI:
 **Contact Section**
 ![Contact Section](public/images/screenshot/contact.png)
 
+**Mobile View**
+![Home Section](public/images/screenshot/mobile_home.png)
+![Menu Section](public/images/screenshot/mobile_menu.png)
+
 ## Installation & Usage
 
 1. **Clone the repository**
